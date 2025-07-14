@@ -55,5 +55,24 @@ This is a client-side only application, so no complex backend setup is required.
     Then, open your browser and go to `http://localhost:8000`.
 
     
-Screenshots:
-<img width="878" height="687" alt="appointment 1" src="https://github.com/user-attachments/assets/960fa9d0-6cd1-417d-803c-ebf937a745e8" />
+## 📸 Screenshots
+
+
+
+### Register Page
+
+<img width="970" height="617" alt="register" src="https://github.com/user-attachments/assets/befe71f4-3e01-4786-a6e5-4163d6edc80c" />
+
+### Dashboard - Add Appointment
+
+<img width="862" height="867" alt="dashboard" src="https://github.com/user-attachments/assets/3fd3567a-9bb0-45f9-91ac-c259b5f320b3" />
+
+
+### Dashboard - Appointment List & Calendar
+
+<img width="920" height="872" alt="appointment" src="https://github.com/user-attachments/assets/2751b0ec-151e-475e-8657-446e1503b58a" />
+
+
+<img width="878" height="687" alt="appointment 1" src="https://github.com/user-attachments/assets/1db9acfe-78c4-4fb7-b44c-5a01228e24c5" />
+
+
