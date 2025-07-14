@@ -53,3 +53,7 @@ This is a client-side only application, so no complex backend setup is required.
     python -m http.server 8000
     ```
     Then, open your browser and go to `http://localhost:8000`.
+
+    
+Screenshots:
+<img width="878" height="687" alt="appointment 1" src="https://github.com/user-attachments/assets/960fa9d0-6cd1-417d-803c-ebf937a745e8" />
